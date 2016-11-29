@@ -1,5 +1,3 @@
-# awesome-website-screenshots
-
 # Awesome Website Screenshots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/deadcoder0904/awesome-website-screenshots)
 
 > A curated list of taking Website Screenshots on different devices with different resolutions in different frames.
