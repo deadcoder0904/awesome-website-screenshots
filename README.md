@@ -6,6 +6,7 @@
 
 - [Projects](#projects)
 - [Websites](#websites)
+- [APIs](#apis)
 - [Device Mockups](#device-mockups)
 - [Blogs](#blogs)
 
@@ -34,6 +35,10 @@
 - [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - Add Nexus device frames to screenshots. It comes with a very small collection of devices. Has Android Wear device. The only restriction is to upload a PNG image as other formats are not supported.
 - [Am I Responsive](http://ami.responsivedesign.is/) - Take all devices(Phone, Tablet, Laptop, Desktop) screenshots in 1 image.
 - [Realshots](https://www.realshots.net/) - Realistic App Screenshots for Free.
+
+### APIs
+
+- [LetsValidate](https://github.com/letsvalidate/api) - Free fast real-time website screenshot API 
 
 ### Device Mockups
 
