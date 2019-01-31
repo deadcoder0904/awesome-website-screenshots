@@ -14,6 +14,7 @@
 
 * [Pageres](https://github.com/sindresorhus/pageres) - Capture screenshots of websites in various resolutions. It's speedy and generates 100 screenshots from 10 different websites in just over a minute. It can also be used to render SVG images.
 * [Pageres-CLI](https://github.com/sindresorhus/pageres-cli) - Command-line tool for the above project Pageres.
+* [Browsershot](https://github.com/spatie/browsershot) - Browsershot is PHP library to convert a webpage to an image or pdf using headless Chrome. The conversion is done behind the scenes by Puppeteer which controls a headless version of Google Chrome.                                                                                                                                
 * [BreakShot](https://github.com/victorferraz/break-shot) - Screen capture desktop app for responsive websites. It detects all available resolutions and take screenshots of each one.
 * [Screenshot application](https://github.com/visionmedia/screenshot-app) - Simple screenshot application & web service powered by Express, Redis, node-canvas, palette, and PhantomJS.
 * [Screenshot as a Service](https://github.com/fzaninotto/screenshot-as-a-service) - Simple screenshot web service powered by Express and PhantomJS.
