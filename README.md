@@ -40,6 +40,7 @@
 ### APIs
 
 * [LetsValidate](https://github.com/letsvalidate/api) - Free fast real-time website screenshot API
+* [SnapAPI](https://snapapi.pics) - REST API for screenshots, PDFs, video recording, and web data extraction. Supports device emulation, dark mode, cookie banner blocking, and full-page captures. Free tier available.
 
 ### Device Mockups
 
