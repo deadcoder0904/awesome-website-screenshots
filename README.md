@@ -19,6 +19,7 @@
 * [Screenshot as a Service](https://github.com/fzaninotto/screenshot-as-a-service) - Simple screenshot web service powered by Express and PhantomJS.
 * [Screenshot Stream](https://github.com/kevva/screenshot-stream) - Capture screenshot of a website and return it as a stream.
 * [Node Webshot](https://github.com/brenden/node-webshot) - Webshot provides a simple API for taking webpage screenshots.
+* [Heroshot](https://github.com/omachala/heroshot) - Screenshot automation for documentation with visual element picker and theme-aware output.
 
 ### Websites
 
