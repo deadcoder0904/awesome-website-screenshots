@@ -41,6 +41,7 @@
 
 * [LetsValidate](https://github.com/letsvalidate/api) - Free fast real-time website screenshot API
 * [PageShot](https://pageshot.site) - Free screenshot and webpage capture REST API powered by Playwright. Supports full-page screenshots, custom viewports, and multiple output formats. No API key required.
+* [Site-Shot](https://www.site-shot.com/) - Website screenshot API with a free no-signup online tool and an official MCP server (npx -y site-shot-mcp). Real Chromium, full-page capture, country proxies (geo/language/timezone), and automatic ad & cookie-banner removal. From $5/mo.
 * [SnapAPI](https://snapapi.pics) - REST API for screenshots, PDFs, video recording, and web data extraction. Supports device emulation, dark mode, cookie banner blocking, and full-page captures. Free tier available.
 
 ### Device Mockups
