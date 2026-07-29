@@ -38,6 +38,7 @@
 * [Realshots](https://www.realshots.net/) - Realistic App Screenshots for Free.
 * [Mockup Photos](https://mockup.photos) - Free & Premium Mockup Photos with more than 510+ unique mockups.
 * [Moonshot](https://ameeramer.github.io/) - Wrap screenshots in macOS, browser or phone frames on gradient backdrops and export retina PNGs. Runs entirely in the browser with no signup and nothing uploaded. Free with a Pro tier.
+* [Add Background to Screenshot](https://alltoolsverse.com/tools/add-background-to-screenshot/) - Polish screenshots with gradient or solid backgrounds, adjustable padding, rounded corners, and shadows, then export a PNG. Runs entirely in the browser with no signup and nothing uploaded.
 
 ### APIs
 
