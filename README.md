@@ -49,6 +49,7 @@
 * [SnapAPI](https://snapapi.pics) - REST API for screenshots, PDFs, video recording, and web data extraction. Supports device emulation, dark mode, cookie banner blocking, and full-page captures. Free tier available.
 * [Snapdok](https://snapdok.io) - Screenshot and PDF rendering API. Full-page PNG captures, multi-page PDF output, and slice-based capture for very long pages. Free tier available.
 * [SnapShot API](https://snapshot-api-production-1374.up.railway.app) - Screenshot API with instant key via curl (no signup, no email). Full-page PNG captures, referral bonuses, and interactive playground. Open source. Free tier: 100/mo.
+* [Screenshot Happy](https://screenshot-api-production-ffd7.up.railway.app/docs) - Single-endpoint screenshot API (PNG/JPEG/PDF) with full-page, custom viewport, and CSS-selector capture, plus scheduled visual-diff monitors with webhook alerts. Free tier (200 screenshots/month).
 
 ### Device Mockups
 
