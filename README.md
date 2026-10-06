@@ -50,6 +50,7 @@
 * [Snapdok](https://snapdok.io) - Screenshot and PDF rendering API. Full-page PNG captures, multi-page PDF output, and slice-based capture for very long pages. Free tier available.
 * [SnapShot API](https://snapshot-api-production-1374.up.railway.app) - Screenshot API with instant key via curl (no signup, no email). Full-page PNG captures, referral bonuses, and interactive playground. Open source. Free tier: 100/mo.
 * [Screenshot Happy](https://screenshot-api-production-ffd7.up.railway.app/docs) - Single-endpoint screenshot API (PNG/JPEG/PDF) with full-page, custom viewport, and CSS-selector capture, plus scheduled visual-diff monitors with webhook alerts. Free tier (200 screenshots/month).
+* [Website Screenshot (Apify)](https://apify.com/cprussin/website-screenshot?fpr=to54nm) - Full-page or viewport screenshots of any URL as PNG/JPEG/PDF, in bulk. Paid per screenshot.
 
 ### Device Mockups
 
