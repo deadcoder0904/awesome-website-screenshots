@@ -52,6 +52,7 @@
 * [Screenshot Happy](https://screenshot-api-production-ffd7.up.railway.app/docs) - Single-endpoint screenshot API (PNG/JPEG/PDF) with full-page, custom viewport, and CSS-selector capture, plus scheduled visual-diff monitors with webhook alerts. Free tier (200 screenshots/month).
 * [Website Screenshot (Apify)](https://apify.com/cprussin/website-screenshot?fpr=to54nm) - Full-page or viewport screenshots of any URL as PNG/JPEG/PDF, in bulk. Paid per screenshot.
 * [AIIPWorld Screenshot API](https://aiipworld.com/screenshot-api/) - Screenshot API on headless Chromium: send a URL or raw HTML, get PNG or JPEG back. Viewport up to 4000 px, full-page capture up to 16,384 px, clip regions, device scale 1-3, dark mode. Free no-signup web tool; free plan of 100 credits/month.
+* [CurlShot](https://curlshot.com) - Screenshot API for a URL, raw HTML or Markdown: PNG, JPEG, WebP, PDF or a scrolling MP4/WebM/GIF video, rendered in Chromium. Full page, device presets, CSS-selector capture, dark mode, ad and cookie-banner blocking, and a remote MCP server for AI agents. Free no-signup web tool; free plan of 100 screenshots/month, no card.
 
 ### Device Mockups
 
