@@ -42,6 +42,8 @@
 
 ### APIs
 
+* [ScreenshotRun](https://screenshotrun.com) - REST API for capturing website screenshots. Supports full-page, custom viewport, and batch capture.
+
 * [Latchshot](https://latchshot.fly.dev) - Guarded screenshot and PDF REST API for public URLs. Supports PNG, JPEG, bounded full-page capture, custom viewports, dark mode, and a hosted MCP server. Recurring free tier; Bearer API key required.
 * [LetsValidate](https://github.com/letsvalidate/api) - Free fast real-time website screenshot API
 * [PageShot](https://pageshot.site) - Free screenshot and webpage capture REST API powered by Playwright. Supports full-page screenshots, custom viewports, and multiple output formats. No API key required.
