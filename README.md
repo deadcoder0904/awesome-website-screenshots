@@ -57,6 +57,7 @@
 * [Screenshot & PDF (Apify)](https://apify.com/pennydata/shot-pdf) - Full-page, element and viewport website screenshots and URL/HTML to PDF on headless Chromium. Pay per event on Apify: $0.001 per screenshot, $0.004 per PDF; failed pages are not billed.
 * [AIIPWorld Screenshot API](https://aiipworld.com/screenshot-api/) - Screenshot API on headless Chromium: send a URL or raw HTML, get PNG or JPEG back. Viewport up to 4000 px, full-page capture up to 16,384 px, clip regions, device scale 1-3, dark mode. Free no-signup web tool; free plan of 100 credits/month.
 * [CurlShot](https://curlshot.com) - Screenshot API for a URL, raw HTML or Markdown: PNG, JPEG, WebP, PDF or a scrolling MP4/WebM/GIF video, rendered in Chromium. Full page, device presets, CSS-selector capture, dark mode, ad and cookie-banner blocking, and a remote MCP server for AI agents. Free no-signup web tool; free plan of 100 screenshots/month, no card.
+* [Allscreenshots](https://allscreenshots.com) - Screenshot API for full-page and viewport captures as PNG, JPEG, WebP or PDF, plus HTML, Markdown and JSON extraction from a single page load. Supports device emulation, dark mode, ad and cookie-banner blocking, scheduled captures, bulk capture of up to 100 URLs per call, official SDKs and a hosted MCP server. 100 free lifetime credits; paid plans from $10/mo.
 
 ### Device Mockups
 
