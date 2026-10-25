@@ -67,6 +67,7 @@ If you have Photoshop or Illustrator on your PC, you have an advantage. You can 
 * [TutsPlus](http://design.tutsplus.com/) - Download device mockups from the Design section of TutsPlus at no cost. The collection is not too large, but it certainly has some good looking devices frame.
 * [Behance](https://behance.net) - A portfolio maker for graphic designers. Search for mockups or get beautiful device frames at Behance. No direct link to download mockups from Behance.
 * [Dribbble](https://dribbble.com/) - Download a lot of Photoshop files from Dribbble. Just like Behance, there is no direct link. Search for any mockup with the device name.
+* [APPLORE](https://applore.app/app-store-screenshot-generator) - Free App Store and Google Play screenshot generator. Add your app screens and a headline for each, pick a layout and background, and download every store size in one ZIP. No sign-up, no watermark, and images stay in your browser.
 
 ### Blogs
 
