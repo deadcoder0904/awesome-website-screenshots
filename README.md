@@ -40,6 +40,7 @@
 * [Moonshot](https://ameeramer.github.io/) - Wrap screenshots in macOS, browser or phone frames on gradient backdrops and export retina PNGs. Runs entirely in the browser with no signup and nothing uploaded. Free with a Pro tier.
 * [Add Background to Screenshot](https://alltoolsverse.com/tools/add-background-to-screenshot/) - Polish screenshots with gradient or solid backgrounds, adjustable padding, rounded corners, and shadows, then export a PNG. Runs entirely in the browser with no signup and nothing uploaded.
 * [AppScreen](https://appscreen.pro) - Browser editor for App Store and Google Play screenshots. Place your app screens in iPhone, iPad and Android phone or tablet frames, add headlines and backgrounds, and export every store size. Free tier; Pro is a one-time $9.
+* [Capture Full Page](https://www.capture-full-page.com) - Chrome extension for full page, visible screen, and area screenshots, with an editor for arrows, text, crop, and blur that hides emails and card numbers in one click. Exports PNG, JPEG, or multi-page PDF. Runs entirely in the browser, no account, nothing uploaded.
 
 ### APIs
 
